@@ -322,6 +322,7 @@
                     </dependency>
                 </dependencies>
                 <executions>
+                <!-- 
                     <execution>
                         <phase>process-sources</phase>
                         <goals>
@@ -329,6 +330,7 @@
                             <goal>test-compile</goal>
                         </goals>
                     </execution>
+                     -->
                 </executions>
                 <configuration>
                     <outxml>true</outxml>
